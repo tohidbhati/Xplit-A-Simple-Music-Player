@@ -30,6 +30,8 @@ Here's a description you can use for your GitHub repository:
 3. **Open `index.html` in a Web Browser**: 
    Simply open the `index.html` file in your preferred web browser to start using the music player.
 
+4. **Extract 'Songs.zip' and 'covers.zip' in the same folder
+
 ## Usage
 
 - **Load Tracks**: The music player supports a variety of audio files. Update the `track_list` array in `fscript.js` to include your own tracks.
