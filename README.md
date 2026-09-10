@@ -1,4 +1,4 @@
-# [New Update: 10/09/2026: Revisiting this and other projectsand fixing them ]
+# [New Update: 10/09/2026: Revisiting this and some other projects and fixing them ]
 # Xplit-A-Simple-Music-Player
 Here's a description you can use for your GitHub repository:
 
