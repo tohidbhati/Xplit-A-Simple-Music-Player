@@ -1,5 +1,4 @@
 # [New Update: 10/09/2026: Revisiting this and some other projects and fixing them ]
-# Xplit-A-Simple-Music-Player V2 
 # 🎵 Xplit — A Simple Music Player
 
 > **Xplit** is a simple browser-based music player built with **HTML, CSS, and JavaScript**.
