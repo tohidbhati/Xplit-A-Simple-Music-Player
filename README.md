@@ -191,8 +191,10 @@ The following features may be added in future versions:
 ---
 
 ## 📸 Screenshots
+<img width="1678" height="905" alt="Screenshot from 2026-09-21 12-21-28" src="https://github.com/user-attachments/assets/7d382f00-c3ab-4678-84e9-17f07ac380e3" />
+<img width="540" height="708" alt="Screenshot from 2026-09-21 12-21-17" src="https://github.com/user-attachments/assets/f48b45dd-d76f-405b-8c08-5c3c84bcbdbc" />
+<img width="467" height="155" alt="Screenshot from 2026-09-21 12-20-30" src="https://github.com/user-attachments/assets/2450ad09-b7da-4585-88ec-8df2e81c588f" />
 
-> Screenshots will be added after completing the UI testing phase.
 
 ---
 
